@@ -7,7 +7,7 @@ function App() {
 
   return (
     <>
-    <div className="min-h-screen s">
+    <div className="min-h-screen">
     <Header/>
     <ActionAndCondicions/>
     <MainCont/>
