@@ -5,18 +5,18 @@ import MainCont from "../components/MainCont";
 
 const  ConditionPage: React.FC  = () => {
        const Cd: object[] =[ 
+    
         {
                 nameCondition:'Atordoado',
-                description:"Quem está atordoado fica de xereca",
+                description:"Quem está atordoado fica de xerecadkajdlkjldkjlkaldkjalkjalkjddalkjlkjdlakjdslakjlsakdjjlaksjdlkjdlkajsdlkasdlkjl",
                 cause:"-2d20"
             },
     
         {
-                nameCondition:'xereca',
-                description:"Quem está atordoado fica de xereca",
-                cause:"-2d20"
+                nameCondition:'Esmurecido',
+                description:"Quem está esmurecido tbm fica de xereca",
+                cause:"-1d20"
             },
-    
        ]
     return(
         <>
